@@ -30,6 +30,6 @@ In this repository, for TraceLab you will find:
 * :white_check_mark: [Source code] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/TraceLab)
 * :white_check_mark: [Source code of components] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/ComponentsSources)
 * :white_check_mark: [Binaries] (https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-TraceLab/tree/master/Main/bin)
-* :x: Virtual machine containing tool (not available, Windows box)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Jane Cleland-Huang for her help.
